@@ -18,11 +18,7 @@
 - Explain how to write a unit test
 - Test-drive a program with multiple functions
 
-**Morning**
-- workshop: https://github.com/boolean-uk/boolean-uk-tdd-from-requirements-to-source-code
-
-**Afternoon**
-- exercise: https://github.com/boolean-uk/boolean-uk-from-requirements-to-source-code
+- Workshop: https://github.com/boolean-uk/boolean-uk-tdd-from-requirements-to-source-code
 
 ### Day 2
 **Learning Objectives**
